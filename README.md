@@ -12,7 +12,7 @@
 [java.c](java.c)   
 [lowercase.c](lowercase.c)    
 [multiplication.c](multiplication.c)     
-[palindrom.c](palindrom.c)
+[palindrom.c](palindrom.c)    
 [swapnumbers.c](swapnumbers.c)     
 [upper case strings.c](upper_case_strings.c)     
 [vowels.c](vowels.c)
