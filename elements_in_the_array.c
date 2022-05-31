@@ -77,3 +77,12 @@ int main()
     }
     return 0;
 }
+
+output:
+Enter size of array2
+Enter 1 element5
+Enter 2 element6
+Enter i to insert/ d to delete i
+Enter element to insert4
+Enter positon1
+4 5 6 
