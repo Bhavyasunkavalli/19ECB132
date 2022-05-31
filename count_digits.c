@@ -1,14 +1,17 @@
-#include<stdio.h>
-void main()
-{
-	char s[10];
-	printf("enter the string");
-	gets(s);
-	int i,l=0;
-	for(i=0;s[i]!='\0';i++)
-	{
-		if(isdigit(s[i])==1)
-		l++;
-	}
-	printf("the number of digits is %d",l);
-}
+#include <stdio.h>  
+int main()  
+{  
+   int n;    
+   int count=0; 
+   printf("Enter a number");  
+   scanf("%d",&n);  
+   while(n!=0)  
+   {  
+       n=n/10;  
+       count++;  
+   }  
+     
+   printf("\nThe number of digits in an integer is : %d",count);  
+    return 0;  
+}  
+
