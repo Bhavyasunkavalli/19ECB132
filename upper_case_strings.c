@@ -1,14 +1,23 @@
 #include<stdio.h>
-void main()
+#include<ctype.h>
+
+int main()
 {
-	char s[10],T[10];
-	int i;
-	printf("enter string");
-	gets(s);
-	for(i=0;s[i]!='\0';i++)
+	int ctr=0;
+	char str_char;
+	char str[100]; 
+    
+	printf("\n Convert a string to uppercase. :\n");  
+    printf("-----------------------------------");      
+    printf("\n Input a string in lowercase : ");
+    fgets(str, sizeof str, stdin);  
+    printf(" Here is the above string in UPPERCASE :\n ");
+	while (str[ctr])
 	{
-	T[i]=toupper(s[i]);
-}
-	printf("string converted to upper case is\n");
-	puts(T);
+		str_char=str[ctr];
+		putchar (toupper(str_char));
+		ctr++;
+	}
+	printf("\n\n");
+	return 0;
 }
