@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 
 int main()
 {
@@ -16,3 +16,9 @@ int main()
     
     return 0;
 }
+
+output:
+Enter two integers to multiplication
+6
+7
+product of entered numbers = 42
