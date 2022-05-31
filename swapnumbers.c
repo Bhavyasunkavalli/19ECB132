@@ -19,3 +19,14 @@ int main()
  
    return 0;
 }
+
+output:
+Enter the value of x and y
+34
+66
+Before Swapping
+x = 34
+y = 66
+After Swapping
+x = 66
+y = 34
