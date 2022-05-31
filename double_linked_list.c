@@ -57,3 +57,9 @@ int main()
     
     return 0;
 }
+output:
+
+In Forward Direction
+ 3  2  1 
+In Backward direction 
+ 1  2  3 
