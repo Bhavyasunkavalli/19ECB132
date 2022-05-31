@@ -1,4 +1,4 @@
-[5:49 pm, 31/05/2022] Harshitha: #include<stdio.h>
+ #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
 #include<unistd.h>
