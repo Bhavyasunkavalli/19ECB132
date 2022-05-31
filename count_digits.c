@@ -15,3 +15,7 @@ int main()
     return 0;  
 }  
 
+output:
+Enter a number45
+
+The number of digits in an integer is : 2
