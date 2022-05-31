@@ -17,4 +17,7 @@
 [preordertraversalbinarytree.c](preordertraversalbinarytree.c)     
 [arrayprogram.c](arrayprogram.c)      
 [numberpyramid.c](numberpyramid.c)    
-[firstlastdigit.c](firstlastdigit.c)
+[firstlastdigit.c](firstlastdigit.c)   
+[timer.c](timer.c)
+[password.c](password.c)
+
