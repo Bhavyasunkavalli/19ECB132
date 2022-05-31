@@ -15,6 +15,5 @@
 [palindrom.c](palindrom.c)    
 [swapnumbers.c](swapnumbers.c)     
 [upper case strings.c](upper_case_strings.c)     
-[vowels.c](vowels.c)      
 [binarysearchtree.c](binarysearchtree.c)      
 [preordertraversalbinarytree.c](preordertraversalbinarytree.c)
