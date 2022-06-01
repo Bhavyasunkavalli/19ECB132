@@ -18,6 +18,7 @@ printf("last digit is %d",r);
 printf("first digit is %d",r1);
 return 0;
 }
-output:
+
+\*output:
 enter any number:46
-last digit is 6first digit is 4
+last digit is 6first digit is 4*/
