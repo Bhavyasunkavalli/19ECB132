@@ -24,9 +24,9 @@ int main()
     return 0;
 }
 
-output:
+\*output:
 Enter a string:345543
-345543 is a palindrome
+345543 is a palindrome*/
 
 
 
