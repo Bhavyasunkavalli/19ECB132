@@ -56,7 +56,8 @@ struct node* insertRight(struct node* root, int value) {
   return root->right;
 }
 
-int main() {
+int main() 
+{
   struct node* root = createNode(1);
   insertLeft(root, 2);
   insertRight(root, 3);
