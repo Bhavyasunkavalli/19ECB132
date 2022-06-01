@@ -25,6 +25,7 @@ int main()
 }
 
 \*output:
+  
 Enter a string:345543
 345543 is a palindrome*/
 
