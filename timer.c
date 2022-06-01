@@ -36,5 +36,5 @@ fflush(stdout);
 return 0;
 }
 
-output:
-timer
+\*output:
+timer*/
