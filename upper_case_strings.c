@@ -22,9 +22,9 @@ int main()
 	return 0;
 }
 
-output:
+\*output:
 Convert a string to uppercase. :
 -----------------------------------
  Input a string in lowercase : pallavi
  Here is the above string in UPPERCASE :
- PALLAVI
+ PALLAVI*/
