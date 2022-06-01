@@ -13,8 +13,6 @@
 [palindrom.c](palindrom.c)    
 [swapnumbers.c](swapnumbers.c)     
 [upper case strings.c](upper_case_strings.c)     
-[binarysearchtree.c](binarysearchtree.c)      
-[preordertraversalbinarytree.c](preordertraversalbinarytree.c)     
 [arrayprogram.c](arrayprogram.c)      
 [numberpyramid.c](numberpyramid.c)    
 [firstlastdigit.c](firstlastdigit.c)   
