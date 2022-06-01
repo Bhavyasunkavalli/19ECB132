@@ -5,5 +5,5 @@ int main(void)
     return 0;
 }    
 
-output:
-hello world
+\*output:
+hello world*/
