@@ -150,8 +150,8 @@ int main() {
   printList(head);
 }
 
-output:
+\*output:
 Linked list:  3  2  5  1  4 
 After deleting an element:  2  5  1  4 
 3 is not found
-Sorted List:  1  2  4  5
+Sorted List:  1  2  4  5*/
