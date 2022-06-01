@@ -17,8 +17,8 @@ int main()
     return 0;
 }
 
-output:
+\*output:
 Enter two integers to multiplication
 6
 7
-product of entered numbers = 42
+product of entered numbers = 42*/
