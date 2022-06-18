@@ -14,7 +14,7 @@
 [swapnumbers.c](swapnumbers.c)     
 [upper case strings.c](upper_case_strings.c)     
 [arrayprogram.c](arrayprogram.c)      
-[numberpyramid.c](numberpyramid.c)    
+[numberpyramid.c](numberpyramid.c)         
 [firstlastdigit.c](firstlastdigit.c)   
       
 
