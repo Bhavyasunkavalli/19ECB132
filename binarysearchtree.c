@@ -108,3 +108,7 @@ int main() {
   printf("Inorder traversal: ");
   inorder(root);
 }
+/* output:
+Inorder traversal: 1 -> 3 -> 4 -> 6 -> 7 -> 8 -> 10 -> 14 -> 
+After deleting 10
+Inorder traversal: 1 -> 3 -> 4 -> 6 -> 7 -> 8 -> 14 ->  */
