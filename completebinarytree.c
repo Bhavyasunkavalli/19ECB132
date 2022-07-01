@@ -51,3 +51,5 @@ int main() {
   else
     printf("The tree is not a complete binary tree\n");
 }
+/*output:
+The tree is a complete binary tree*/
